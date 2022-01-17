@@ -1,0 +1,6 @@
+# Over-Voltage-Protection
+Over voltage protection is a power supply feature which shuts down the supply, or clamps the output, when the voltage exceeds a preset level.
+Most power supplies use an over-voltage protection circuit to prevent damage to the electronic components. The impact of an over-voltage condition varies from one circuit to the other and ranges from damaging the components to degrading the components and causing circuit malfunctions or fire.
+An over-voltage condition might occur in the power supply due faults inside the supply, or from external causes such as those in the distribution lines.
+The magnitude and duration of the over-voltage are some of the major considerations when designing an effective protection. The protection involves setting a threshold voltage above which the control circuit shuts down the supply or diverts the extra voltage to other parts of the circuit such as capacitor.
+Protection circuits, like reverse polarity protection, short-circuit protection and over/under voltage protection, are used to protect any electronic appliance or circuit from any sudden mis-happening. Generally fuse or MCB is used for overvoltage protection, here in this circuit, we will build an overvoltage protection circuit without using Fuse.
